@@ -81,7 +81,8 @@ For feedback, suggestions, or collaboration:
 
 ✉️ Email: janavikhawalecse@gmail.com
 
-🔗 LinkedIn: Janhvi Khawale
+🔗 LinkedIn:
+https://www.linkedin.com/in/janhvi-khawale-820677363/]
 
 demo video of code :
 https://drive.google.com/file/d/14N_rGZT-ZFGBM2c1TWpxbkdORilKMZmi/view?usp=drivesdk
